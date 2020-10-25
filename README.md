@@ -8,6 +8,8 @@ Design and develop an AI toolkit (with suitable image processing and computer vi
 
 Dataset : [Casting Product Image Data for Quality Inspection](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 
+## Output
+
 <img src = "https://github.com/awyewlim/Manufacturing-Defects-Detector/blob/main/static/defect.png" width="300" height="300"> <img src = "https://github.com/awyewlim/Manufacturing-Defects-Detector/blob/main/static/ok.png" width="300" height="300">
 
 ## Guide
