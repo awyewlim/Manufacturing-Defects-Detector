@@ -1,4 +1,6 @@
-# TARUC-E-Data-Hackathon-2020
+# Manufacturing Defects Detector
+
+[TARUC E-Data Hackathon 2020](https://sites.google.com/tarc.edu.my/tar-uc-e-data-hackathon-2020/home)
 
 Topic: Industrial Automation
 
