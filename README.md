@@ -6,7 +6,7 @@ Topic: Industrial Automation
 
 Design and develop an AI toolkit (with suitable image processing and computer vision techniques) that can detect manufacturing defects automatically.
 
-Dataset : [From kaggle](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
+Dataset : [Casting Product](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 
 ## Guide
 1. Download the dataset above
