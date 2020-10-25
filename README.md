@@ -1,6 +1,7 @@
 # TARUC-E-Data-Hackathon-2020
 
 Topic: Industrial Automation
+
 Design and develop an AI toolkit (with suitable image processing and computer vision techniques) that can detect manufacturing defects automatically.
 
 Dataset : [From kaggle](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
